@@ -24,7 +24,7 @@ __Assignment - 3__
 
 - Functions to calculate Factorial of a number
 
-__Assignment - 4 __
+__Assignment - 4__
 
 - Create a Structure named as Student.           
 - Fields 
