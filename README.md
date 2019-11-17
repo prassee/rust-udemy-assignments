@@ -1,6 +1,6 @@
 #### Rust code excercises given in Udemy's "Rust for Beginners" course. ####
 
-Udemy's Rust course flows along with the contents of Rust's __"The Book"__. I created this repo
+Udemy's Rust course flows along with the contents of Rust's "__The Book__". I created this repo
 to help new rustaceans to pick up the language with real code examples.
 
 __Assignment - 1__
